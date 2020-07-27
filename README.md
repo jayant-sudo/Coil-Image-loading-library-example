@@ -1,8 +1,8 @@
 # Coil-Image-loading-library-example
 
-Coil is new android library for loading image 
+Coil is a new android library for image loading 
 
- it has following features are as follow
+ it has following features are as follow :-
  
  1). fast
  
