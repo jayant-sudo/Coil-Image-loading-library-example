@@ -13,4 +13,4 @@ Coil is a new android library for image loading
  4).modern
 
 
-<img src="http://www.codingwithjks.tech/Github/coil.png"/>
+<center><img src="http://www.codingwithjks.tech/Github/coil.png"/></center>
